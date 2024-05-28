@@ -1,0 +1,11 @@
+# Rename this file to config.sh and remove this line
+#!/bin/bash
+
+# Personal information
+PERSONAL_NAME="John Doe"
+PERSONAL_EMAIL="personal@mail.com"
+
+# Work information
+WORK_NAME="John Doe at work"
+WORK_EMAIL="work@mail.com"
+WORK_DIRECTORY="~/projects/work/"
